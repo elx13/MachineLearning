@@ -35,6 +35,7 @@ remaining columns in the dataset, such as 'Store', 'Date', 'Temperature', 'Fuel_
 Variance or r-squared values.
 *Data Exploration:* The exploratory data analysis performed on the dataset, including any visualizations or 
 statistical summaries used to understand the data.
+[!NOTE]
 
 
  
