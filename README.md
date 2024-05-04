@@ -4,7 +4,7 @@ Classification, clustering and regression with Machine Learning.
 ## Classification
 https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers is the dataset for classification.
 
-[^1]: *Data Description:* This dataset classifies people described by a set of attributes as good or bad credit risks. 
+ *Data Description:* This dataset classifies people described by a set of attributes as good or bad credit risks. 
 Within this file you will find the following fields:
 checking_status: Status of existing checking account
 duration: Duration in months
@@ -16,7 +16,7 @@ employment: Present employment, in number of years
 installment_commitment: Installment rate in percentage of disposable income
 personal_status: sex and marital data
 other_parties: Other debtors / guarantors
-[^2]: *ML Problem definition:* The purpose of this task is to predict whether an applicant is likely to default on their 
+ *ML Problem definition:* The purpose of this task is to predict whether an applicant is likely to default on their 
 loan based on a number of characteristics such as credit history, savings status, employment, age, and other 
 factors. 
 *Data Split:* We set the train to 80% and the test to 20%, build the model and print the Mean Squared Error and 
@@ -31,11 +31,10 @@ https://www.kaggle.com/code/yasserh/walmart-sales-prediction-best-ml-algorithms 
 the available features in the dataset. The target variable for the regression problem is 'Weekly_Sales'. The 
 remaining columns in the dataset, such as 'Store', 'Date', 'Temperature', 'Fuel_Price', 'CPI', and 
 'Unemployment', can be considered as potential features.
-*Data Split:* We set the train to 80% and the test to 20%, build the model and print the Mean Square Error and 
-Variance or r-squared values.
+
 *Data Exploration:* The exploratory data analysis performed on the dataset, including any visualizations or 
 statistical summaries used to understand the data.
-[!NOTE]
+[!NOTE]> hı
 
 
  
