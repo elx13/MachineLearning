@@ -1,4 +1,4 @@
-# Machine Learning
+# Machine Learning Projects
 Classification, clustering and regression with Machine Learning.
 
 ## Classification
