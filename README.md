@@ -16,6 +16,7 @@ employment: Present employment, in number of years
 installment_commitment: Installment rate in percentage of disposable income
 personal_status: sex and marital data
 other_parties: Other debtors / guarantors.
+
  **ML Problem definition:** The purpose of this task is to predict whether an applicant is likely to default on their 
 loan based on a number of characteristics such as credit history, savings status, employment, age, and other 
 factors. 
